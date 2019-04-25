@@ -7,4 +7,5 @@ Two models are applied in our project, one is the original 3D U-net model, the o
 ## Use commands below to train the model:
 cd brats  
 python train.py  
-PS：You can set "if_isensee2017_model" in "configure" to choose the model to be trained.
+  
+  PS：You can set "if_isensee2017_model" in "configure" to choose the model to be trained.
