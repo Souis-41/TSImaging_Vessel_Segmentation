@@ -1,4 +1,4 @@
-# TSimaging Vessel Segmentation
+# TSImaging Vessel Segmentation
 ## Intern student project in TSimaing (independent working)
 
 We are trying to figure out the composition of carotid artery wall through MRI images.  
